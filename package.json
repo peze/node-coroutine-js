@@ -1,0 +1,10 @@
+{
+    "name": "node-coroutine-js",
+    "description": "the node coroutine moudle which is writen by js.",
+    "version": "1.0.0",
+    "author": "page",
+    "main": "./index",
+    "engines": {
+        "node": ">=4.0.0"
+    }
+}
