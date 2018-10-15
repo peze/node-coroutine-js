@@ -57,8 +57,5 @@ function create(fn, obj) {
     return fn;
 }
 
-// function destroy(fn) {
-//     Co.destroy(fn.yield);
-// }
 
 module.exports = create;
